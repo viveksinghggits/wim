@@ -9,5 +9,10 @@
         "all_frames":true,
         "js":["contentScript.js"]
     }
-    ]
+    ],
+    "page_action":{
+        "default_icon":{
+            "16":"images/w.png"
+        }
+    }
 }
